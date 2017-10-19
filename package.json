@@ -1,0 +1,10 @@
+{
+  "name": "winsendkeynode",
+  "version": "0.0.1",
+  "description": "Sends keypress to Windows",
+  "main": "index.js",
+  "repository": "TBD",
+  "author": "Gacnt <gacntapps@icloud.com>",
+  "license": "GPL",
+  "private": true
+}
